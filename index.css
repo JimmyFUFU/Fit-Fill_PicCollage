@@ -1,0 +1,19 @@
+body {
+  width: auto;
+}
+
+#image{
+  display: block;
+  margin: 0 auto;
+}
+.buttonDiv button{
+  display: block;
+  margin: 1% auto;
+}
+#imgPreview{
+  height: 500px;
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #2c3e50;
+}
