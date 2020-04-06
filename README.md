@@ -4,3 +4,5 @@
 2. Upload an image ( png or jpg)
 3. Click the "Fit" button to fit in the image
 4. Click the "Fill" button to fill in the image
+
+![Mermaid screenshot](./demo.gif)
